@@ -1,8 +1,9 @@
+  
 # Hello Tom & Jerry
 
 **A mod for Hello Neighbor. Tom moved in next door, and you are Jerry.** Tom replaces the Neighbor with his own cartoon animations, and you sneak through the house as a tiny mouse, with mousetraps, slapstick catches and Spike the bulldog on your side.
 
-<!-- screenshot here -->
+<img width="2560" height="1440" alt="Screenshot (3440)" src="https://github.com/user-attachments/assets/a6bbbc8a-5e2e-43e1-afe9-f6bd7eaaad0e" />
 
 > Unofficial fan project, free of charge, not affiliated with or endorsed by Warner Bros., tinyBuild, Dynamic Pixels or NetEase.
 
